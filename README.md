@@ -1,5 +1,7 @@
-# *README: Airline Loyalty Program EDA*
-## Exploratory Data Analysis of a customer data set within an airline loyalty program. ##
+
+<h1 align="center" id="title"> Airline Loyalty Program EDA</h1> 
+<h2 align="center" id="title"> Exploratory Data Analysis of a customer data set within an airline loyalty program. </h2>
+
 
 
 <p align="center">
